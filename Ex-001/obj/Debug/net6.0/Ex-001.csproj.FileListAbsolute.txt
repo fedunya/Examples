@@ -1,0 +1,15 @@
+F:\Курсы\Пакет Digital-master\Examples\Ex-001\bin\Debug\net6.0\Ex-001.exe
+F:\Курсы\Пакет Digital-master\Examples\Ex-001\bin\Debug\net6.0\Ex-001.deps.json
+F:\Курсы\Пакет Digital-master\Examples\Ex-001\bin\Debug\net6.0\Ex-001.runtimeconfig.json
+F:\Курсы\Пакет Digital-master\Examples\Ex-001\bin\Debug\net6.0\Ex-001.dll
+F:\Курсы\Пакет Digital-master\Examples\Ex-001\bin\Debug\net6.0\Ex-001.pdb
+F:\Курсы\Пакет Digital-master\Examples\Ex-001\obj\Debug\net6.0\Ex-001.csproj.AssemblyReference.cache
+F:\Курсы\Пакет Digital-master\Examples\Ex-001\obj\Debug\net6.0\Ex-001.GeneratedMSBuildEditorConfig.editorconfig
+F:\Курсы\Пакет Digital-master\Examples\Ex-001\obj\Debug\net6.0\Ex-001.AssemblyInfoInputs.cache
+F:\Курсы\Пакет Digital-master\Examples\Ex-001\obj\Debug\net6.0\Ex-001.AssemblyInfo.cs
+F:\Курсы\Пакет Digital-master\Examples\Ex-001\obj\Debug\net6.0\Ex-001.csproj.CoreCompileInputs.cache
+F:\Курсы\Пакет Digital-master\Examples\Ex-001\obj\Debug\net6.0\Ex-001.dll
+F:\Курсы\Пакет Digital-master\Examples\Ex-001\obj\Debug\net6.0\refint\Ex-001.dll
+F:\Курсы\Пакет Digital-master\Examples\Ex-001\obj\Debug\net6.0\Ex-001.pdb
+F:\Курсы\Пакет Digital-master\Examples\Ex-001\obj\Debug\net6.0\Ex-001.genruntimeconfig.cache
+F:\Курсы\Пакет Digital-master\Examples\Ex-001\obj\Debug\net6.0\ref\Ex-001.dll
